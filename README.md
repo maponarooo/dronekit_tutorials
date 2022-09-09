@@ -9,7 +9,7 @@ make px4_sitl_default gazebo
 
 2. 샘플 프로그램 실행
 
-python dronekitPX4.py --connect=127.0.0.1:14540
+python vehicle_state.py
 
 3. 리모트 QgroundControl 접속
 ##If you want to connect to GCS.
